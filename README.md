@@ -5,7 +5,6 @@ I'm Vkiee, aspiring Cybersecurity Specialist and Bug Hunter. With a strong passi
 ### About Me
 
 - **Name** : Vignesh
-- **From** : Chennai, India
 - **Bug Hunter** | **Security Researcher**
 -  Improving knowledge in **Vulnerabilities Assessment**
   
@@ -24,6 +23,8 @@ I'm Vkiee, aspiring Cybersecurity Specialist and Bug Hunter. With a strong passi
      <br>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
